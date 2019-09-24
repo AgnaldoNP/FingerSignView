@@ -4,7 +4,7 @@
 ## Introduction
 *FingerSignView* is a simple library that lets you finger, or draw lines, smoothly with your finger into a View and save it as a file or bitmap
 
-![Screenshot](https://raw.githubusercontent.com/AgnaldoNP/FingerSignView/master/screenshot/screenshot.png | width=100)
+![Screenshot](https://raw.githubusercontent.com/AgnaldoNP/FingerSignView/master/screenshot/screenshot.png)
 
 ## Install
 
