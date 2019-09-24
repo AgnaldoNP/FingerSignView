@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="FingerSignView">
+        <attr name="strokeWidth" format="dimension"/>
+        <attr name="velocityFilterWeight" format="integer"/>
+        <attr name="lineColor" format="color"/>
+    </declare-styleable>
+
+    <attr name="fingerSignView" format="reference"/>
+
+</resources>

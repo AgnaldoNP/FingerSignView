@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="defaultFingerSignStyle">
+        <item name="strokeWidth">@dimen/strokeWidth</item>
+        <item name="velocityFilterWeight">@integer/velocityFilterWeight</item>
+        <item name="lineColor">@color/lineColor</item>
+    </style>
+
+</resources>
